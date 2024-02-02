@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { useSessionContext, useSupabaseClient } from "@supabase/auth-helpers-react";
 

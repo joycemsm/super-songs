@@ -1,5 +1,3 @@
-"use cliente"
-
 import './globals.css'
 
 import { Figtree } from 'next/font/google'
